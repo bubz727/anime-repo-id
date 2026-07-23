@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: AnimeIndo",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeindo",
-    "apk": "aniyomi-id.animeindo-v14.28.apk",
+    "apk": "aniyomi-id.animeindo-v14.8.apk",
     "lang": "id",
-    "code": 28,
-    "version": "14.28",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "sources": [
       {
@@ -56,10 +56,10 @@
   {
     "name": "Aniyomi: MiniOppai",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.minioppai",
-    "apk": "aniyomi-id.minioppai-v14.18.apk",
+    "apk": "aniyomi-id.minioppai-v14.8.apk",
     "lang": "id",
-    "code": 18,
-    "version": "14.18",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 1,
     "sources": [
       {
@@ -92,10 +92,10 @@
   {
     "name": "Aniyomi: NimeGami",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nimegami",
-    "apk": "aniyomi-id.nimegami-v14.7.apk",
+    "apk": "aniyomi-id.nimegami-v14.1.apk",
     "lang": "id",
-    "code": 7,
-    "version": "14.7",
+    "code": 1,
+    "version": "14.1",
     "nsfw": 0,
     "sources": [
       {
@@ -110,10 +110,10 @@
   {
     "name": "Aniyomi: Oploverz",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.oploverz",
-    "apk": "aniyomi-id.oploverz-v14.26.apk",
+    "apk": "aniyomi-id.oploverz-v14.1.apk",
     "lang": "id",
-    "code": 26,
-    "version": "14.26",
+    "code": 1,
+    "version": "14.1",
     "nsfw": 0,
     "sources": [
       {
@@ -146,10 +146,10 @@
   {
     "name": "Aniyomi: Samehadaku",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.samehadaku",
-    "apk": "aniyomi-id.samehadaku-v14.10.apk",
+    "apk": "aniyomi-id.samehadaku-v14.1.apk",
     "lang": "id",
-    "code": 10,
-    "version": "14.10",
+    "code": 1,
+    "version": "14.1",
     "nsfw": 0,
     "sources": [
       {
