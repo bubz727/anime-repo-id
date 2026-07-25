@@ -1,5 +1,23 @@
 [
   {
+    "name": "Aniyomi: AnimeIsme",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.animeisme",
+    "apk": "aniyomi-id.animeisme-v14.8.apk",
+    "lang": "id",
+    "code": 8,
+    "version": "14.8",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimeIsme",
+        "lang": "id",
+        "id": "8822591117473189973",
+        "baseUrl": "https://animeisme.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimeKompi",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animekompi",
     "apk": "aniyomi-id.animekompi-v14.8.apk",
