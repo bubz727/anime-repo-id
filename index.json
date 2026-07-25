@@ -72,24 +72,6 @@
     ]
   },
   {
-    "name": "Aniyomi: NeoNime",
-    "pkg": "eu.kanade.tachiyomi.animeextension.id.neonime",
-    "apk": "aniyomi-id.neonime-v14.24.apk",
-    "lang": "id",
-    "code": 24,
-    "version": "14.24",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "NeoNime",
-        "lang": "id",
-        "id": "6698339357657312694",
-        "baseUrl": "https://neonime.ink",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: NimeGami",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nimegami",
     "apk": "aniyomi-id.nimegami-v14.1.apk",
