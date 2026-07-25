@@ -1,18 +1,18 @@
 [
   {
-    "name": "Aniyomi: AnimeIndo",
-    "pkg": "eu.kanade.tachiyomi.animeextension.id.animeindo",
-    "apk": "aniyomi-id.animeindo-v14.8.apk",
+    "name": "Aniyomi: AnimeKompi",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.animekompi",
+    "apk": "aniyomi-id.animekompi-v14.8.apk",
     "lang": "id",
     "code": 8,
     "version": "14.8",
     "nsfw": 0,
     "sources": [
       {
-        "name": "AnimeIndo",
+        "name": "AnimeKompi",
         "lang": "id",
-        "id": "2019695674801188380",
-        "baseUrl": "https://animeindo.skin",
+        "id": "2324698136267817963",
+        "baseUrl": "https://v8.animekompi.sbs",
         "versionId": 1
       }
     ]
