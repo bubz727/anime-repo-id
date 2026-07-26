@@ -160,5 +160,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Aniyomi: YLnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.ylnime",
+    "apk": "aniyomi-id.ylnime-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "YLnime",
+        "lang": "id",
+        "id": "4641940364796034107",
+        "baseUrl": "https://ylnime.com",
+        "versionId": 1
+      }
+    ]
   }
 ]
