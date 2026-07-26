@@ -1,5 +1,23 @@
 [
   {
+    "name": "Aniyomi: Animasu",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.animasu",
+    "apk": "aniyomi-id.animasu-v14.8.apk",
+    "lang": "id",
+    "code": 8,
+    "version": "14.8",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Animasu",
+        "lang": "id",
+        "id": "6348753744894876405",
+        "baseUrl": "https://v2.animasu.work",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimeIsme",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeisme",
     "apk": "aniyomi-id.animeisme-v14.8.apk",
@@ -67,24 +85,6 @@
         "lang": "id",
         "id": "2083695115646974607",
         "baseUrl": "https://kuronime.sbs",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: MiniOppai",
-    "pkg": "eu.kanade.tachiyomi.animeextension.id.minioppai",
-    "apk": "aniyomi-id.minioppai-v14.8.apk",
-    "lang": "id",
-    "code": 8,
-    "version": "14.8",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "MiniOppai",
-        "lang": "id",
-        "id": "3422641844834047610",
-        "baseUrl": "https://minioppai.org",
         "versionId": 1
       }
     ]
