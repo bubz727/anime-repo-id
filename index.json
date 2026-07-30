@@ -18,6 +18,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Animebagus",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.animebagus",
+    "apk": "aniyomi-id.animebagus-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Animebagus",
+        "lang": "id",
+        "id": "4928587031861040202",
+        "baseUrl": "https://tv2.animebagus.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimeIsme",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeisme",
     "apk": "aniyomi-id.animeisme-v14.8.apk",
@@ -54,6 +72,24 @@
     ]
   },
   {
+    "name": "Aniyomi: HidoriStream",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.hidoristream",
+    "apk": "aniyomi-id.hidoristream-v14.8.apk",
+    "lang": "id",
+    "code": 8,
+    "version": "14.8",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "HidoriStream",
+        "lang": "id",
+        "id": "7617503823170311228",
+        "baseUrl": "https://v9.hidoristream.online",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Kuramanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuramanime",
     "apk": "aniyomi-id.kuramanime-v14.1.apk",
@@ -74,10 +110,10 @@
   {
     "name": "Aniyomi: Kuronime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuronime",
-    "apk": "aniyomi-id.kuronime-v14.1.apk",
+    "apk": "aniyomi-id.kuronime-v14.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
@@ -103,6 +139,24 @@
         "lang": "id",
         "id": "3947801646056600641",
         "baseUrl": "https://nimegami.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: NontonAnimeID",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.nontonanimeid",
+    "apk": "aniyomi-id.nontonanimeid-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NontonAnimeID",
+        "lang": "id",
+        "id": "6908590296357770447",
+        "baseUrl": "https://s13.nontonanimeid.boats",
         "versionId": 1
       }
     ]
