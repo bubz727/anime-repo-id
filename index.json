@@ -72,6 +72,42 @@
     ]
   },
   {
+    "name": "Aniyomi: Anitoki",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.anitoki",
+    "apk": "aniyomi-id.anitoki-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Anitoki",
+        "lang": "id",
+        "id": "7259167867028363552",
+        "baseUrl": "https://anitoki.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Anixcafe",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.anixcafe",
+    "apk": "aniyomi-id.anixcafe-v14.9.apk",
+    "lang": "id",
+    "code": 9,
+    "version": "14.9",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Anixcafe",
+        "lang": "id",
+        "id": "3797500687620830902",
+        "baseUrl": "https://anixcafe.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: HidoriStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.hidoristream",
     "apk": "aniyomi-id.hidoristream-v14.8.apk",
@@ -126,6 +162,42 @@
     ]
   },
   {
+    "name": "Aniyomi: Nanime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.nanime",
+    "apk": "aniyomi-id.nanime-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Nanime",
+        "lang": "id",
+        "id": "1419490058834549008",
+        "baseUrl": "https://nanimeindo.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: NekoPoi",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.nekopoi",
+    "apk": "aniyomi-id.nekopoi-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NekoPoi",
+        "lang": "id",
+        "id": "7073589375897212735",
+        "baseUrl": "https://nekopoi.care",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: NimeGami",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nimegami",
     "apk": "aniyomi-id.nimegami-v14.1.apk",
@@ -146,10 +218,10 @@
   {
     "name": "Aniyomi: NontonAnimeID",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nontonanimeid",
-    "apk": "aniyomi-id.nontonanimeid-v14.1.apk",
+    "apk": "aniyomi-id.nontonanimeid-v14.3.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -211,6 +283,24 @@
         "lang": "id",
         "id": "7446063017613536202",
         "baseUrl": "https://v2.samehadaku.how",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Sokuja",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.sokuja",
+    "apk": "aniyomi-id.sokuja-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Sokuja",
+        "lang": "id",
+        "id": "3279500102714019781",
+        "baseUrl": "https://x6.sokuja.uk",
         "versionId": 1
       }
     ]
