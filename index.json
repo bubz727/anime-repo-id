@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: Animasu",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animasu",
-    "apk": "aniyomi-id.animasu-v14.8.apk",
+    "apk": "aniyomi-id.animasu-v14.10.apk",
     "lang": "id",
-    "code": 8,
-    "version": "14.8",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "sources": [
       {
@@ -20,10 +20,10 @@
   {
     "name": "Aniyomi: Animebagus",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animebagus",
-    "apk": "aniyomi-id.animebagus-v14.1.apk",
+    "apk": "aniyomi-id.animebagus-v14.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
@@ -38,10 +38,10 @@
   {
     "name": "Aniyomi: AnimeIsme",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeisme",
-    "apk": "aniyomi-id.animeisme-v14.8.apk",
+    "apk": "aniyomi-id.animeisme-v14.10.apk",
     "lang": "id",
-    "code": 8,
-    "version": "14.8",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "sources": [
       {
@@ -56,10 +56,10 @@
   {
     "name": "Aniyomi: AnimeKompi",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animekompi",
-    "apk": "aniyomi-id.animekompi-v14.8.apk",
+    "apk": "aniyomi-id.animekompi-v14.10.apk",
     "lang": "id",
-    "code": 8,
-    "version": "14.8",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "sources": [
       {
@@ -72,12 +72,30 @@
     ]
   },
   {
-    "name": "Aniyomi: Anitoki",
-    "pkg": "eu.kanade.tachiyomi.animeextension.id.anitoki",
-    "apk": "aniyomi-id.anitoki-v14.1.apk",
+    "name": "Aniyomi: AnimePlay",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.animeplay",
+    "apk": "aniyomi-id.animeplay-v14.1.apk",
     "lang": "id",
     "code": 1,
     "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimePlay",
+        "lang": "id",
+        "id": "2371655071732921387",
+        "baseUrl": "https://anime-play.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Anitoki",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.anitoki",
+    "apk": "aniyomi-id.anitoki-v14.3.apk",
+    "lang": "id",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -92,10 +110,10 @@
   {
     "name": "Aniyomi: Anixcafe",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.anixcafe",
-    "apk": "aniyomi-id.anixcafe-v14.9.apk",
+    "apk": "aniyomi-id.anixcafe-v14.11.apk",
     "lang": "id",
-    "code": 9,
-    "version": "14.9",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
     "sources": [
       {
@@ -110,10 +128,10 @@
   {
     "name": "Aniyomi: HidoriStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.hidoristream",
-    "apk": "aniyomi-id.hidoristream-v14.8.apk",
+    "apk": "aniyomi-id.hidoristream-v14.10.apk",
     "lang": "id",
-    "code": 8,
-    "version": "14.8",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "sources": [
       {
@@ -128,10 +146,10 @@
   {
     "name": "Aniyomi: Kuramanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuramanime",
-    "apk": "aniyomi-id.kuramanime-v14.1.apk",
+    "apk": "aniyomi-id.kuramanime-v14.3.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -146,10 +164,10 @@
   {
     "name": "Aniyomi: Kuronime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuronime",
-    "apk": "aniyomi-id.kuronime-v14.2.apk",
+    "apk": "aniyomi-id.kuronime-v14.4.apk",
     "lang": "id",
-    "code": 2,
-    "version": "14.2",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 0,
     "sources": [
       {
@@ -164,10 +182,10 @@
   {
     "name": "Aniyomi: Nanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nanime",
-    "apk": "aniyomi-id.nanime-v14.1.apk",
+    "apk": "aniyomi-id.nanime-v14.3.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -182,10 +200,10 @@
   {
     "name": "Aniyomi: NekoPoi",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nekopoi",
-    "apk": "aniyomi-id.nekopoi-v14.1.apk",
+    "apk": "aniyomi-id.nekopoi-v14.3.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 1,
     "sources": [
       {
@@ -236,17 +254,17 @@
   {
     "name": "Aniyomi: Oploverz",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.oploverz",
-    "apk": "aniyomi-id.oploverz-v14.1.apk",
+    "apk": "aniyomi-id.oploverz-v14.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
         "name": "Oploverz",
         "lang": "id",
         "id": "2573103800968432770",
-        "baseUrl": "https://idn.oploverz.site",
+        "baseUrl": "https://oploverz.site",
         "versionId": 1
       }
     ]
@@ -254,10 +272,10 @@
   {
     "name": "Aniyomi: OtakuDesu",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.otakudesu",
-    "apk": "aniyomi-id.otakudesu-v14.1.apk",
+    "apk": "aniyomi-id.otakudesu-v14.3.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -272,10 +290,10 @@
   {
     "name": "Aniyomi: Samehadaku",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.samehadaku",
-    "apk": "aniyomi-id.samehadaku-v14.1.apk",
+    "apk": "aniyomi-id.samehadaku-v14.3.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -308,10 +326,10 @@
   {
     "name": "Aniyomi: YLnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.ylnime",
-    "apk": "aniyomi-id.ylnime-v14.1.apk",
+    "apk": "aniyomi-id.ylnime-v14.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
