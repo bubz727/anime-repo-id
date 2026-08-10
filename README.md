@@ -1,6 +1,6 @@
 <div align="center">
 
-### This is a fork of the Yuzuno Anime Extension,<br> specifically tailored for the ID (Indonesian) region.
+### This is a fork of the Yuzono Anime Extension,<br> specifically tailored for the ID (Indonesian) region.
 
 </div>
 
