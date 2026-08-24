@@ -144,24 +144,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Anixcafe",
-    "pkg": "eu.kanade.tachiyomi.animeextension.id.anixcafe",
-    "apk": "aniyomi-id.anixcafe-v14.11.apk",
-    "lang": "id",
-    "code": 11,
-    "version": "14.11",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Anixcafe",
-        "lang": "id",
-        "id": "3797500687620830902",
-        "baseUrl": "https://anixcafe.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: HidoriStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.hidoristream",
     "apk": "aniyomi-id.hidoristream-v14.10.apk",
@@ -175,6 +157,24 @@
         "lang": "id",
         "id": "7617503823170311228",
         "baseUrl": "https://v9.hidoristream.online",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Kopidong",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.kopidong",
+    "apk": "aniyomi-id.kopidong-v14.8.apk",
+    "lang": "id",
+    "code": 8,
+    "version": "14.8",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Kopidong",
+        "lang": "id",
+        "id": "5103766963663140050",
+        "baseUrl": "https://kopidong.com",
         "versionId": 1
       }
     ]
@@ -200,10 +200,10 @@
   {
     "name": "Aniyomi: Kuronime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuronime",
-    "apk": "aniyomi-id.kuronime-v14.6.apk",
+    "apk": "aniyomi-id.kuronime-v14.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 0,
     "sources": [
       {
@@ -236,10 +236,10 @@
   {
     "name": "Aniyomi: NekoPoi",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nekopoi",
-    "apk": "aniyomi-id.nekopoi-v14.3.apk",
+    "apk": "aniyomi-id.nekopoi-v14.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 1,
     "sources": [
       {
@@ -272,10 +272,10 @@
   {
     "name": "Aniyomi: NontonAnimeID",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nontonanimeid",
-    "apk": "aniyomi-id.nontonanimeid-v14.4.apk",
+    "apk": "aniyomi-id.nontonanimeid-v14.5.apk",
     "lang": "id",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "sources": [
       {
@@ -362,10 +362,10 @@
   {
     "name": "Aniyomi: Winbu",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.winbu",
-    "apk": "aniyomi-id.winbu-v14.1.apk",
+    "apk": "aniyomi-id.winbu-v14.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
