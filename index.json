@@ -54,6 +54,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Animein",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.animein",
+    "apk": "aniyomi-id.animein-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Animein",
+        "lang": "id",
+        "id": "8225858516041054533",
+        "baseUrl": "https://animeinweb.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimeIsme",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeisme",
     "apk": "aniyomi-id.animeisme-v14.14.apk",
@@ -306,6 +324,42 @@
     ]
   },
   {
+    "name": "Aniyomi: Nimestation",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.nimestation",
+    "apk": "aniyomi-id.nimestation-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Nimestation",
+        "lang": "id",
+        "id": "2317963609289716369",
+        "baseUrl": "https://nimestation.app",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: NontonAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.nontonanime",
+    "apk": "aniyomi-id.nontonanime-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NontonAnime",
+        "lang": "id",
+        "id": "5039787539157152797",
+        "baseUrl": "https://nontonanime.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: NontonAnimeID",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nontonanimeid",
     "apk": "aniyomi-id.nontonanimeid-v14.7.apk",
@@ -427,6 +481,24 @@
         "lang": "id",
         "id": "4641940364796034107",
         "baseUrl": "https://ylnime.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Yoredaze",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.yoredaze",
+    "apk": "aniyomi-id.yoredaze-v14.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Yoredaze",
+        "lang": "id",
+        "id": "3998173496320111528",
+        "baseUrl": "https://yoredaze.com",
         "versionId": 1
       }
     ]
