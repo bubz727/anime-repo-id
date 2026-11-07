@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: Anichin",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.anichin",
-    "apk": "aniyomi-id.anichin-v16.14.apk",
+    "apk": "aniyomi-id.anichin-v16.18.apk",
     "lang": "id",
-    "code": 14,
-    "version": "16.14",
+    "code": 18,
+    "version": "16.18",
     "nsfw": 0,
     "sources": [
       {
@@ -20,10 +20,10 @@
   {
     "name": "Aniyomi: Animasu",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animasu",
-    "apk": "aniyomi-id.animasu-v16.17.apk",
+    "apk": "aniyomi-id.animasu-v16.20.apk",
     "lang": "id",
-    "code": 17,
-    "version": "16.17",
+    "code": 20,
+    "version": "16.20",
     "nsfw": 0,
     "sources": [
       {
@@ -31,24 +31,6 @@
         "lang": "id",
         "id": "6348753744894876405",
         "baseUrl": "https://animasu.love",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Animebagus",
-    "pkg": "eu.kanade.tachiyomi.animeextension.id.animebagus",
-    "apk": "aniyomi-id.animebagus-v16.8.apk",
-    "lang": "id",
-    "code": 8,
-    "version": "16.8",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Animebagus",
-        "lang": "id",
-        "id": "4928587031861040202",
-        "baseUrl": "https://tv2.animebagus.com",
         "versionId": 1
       }
     ]
@@ -74,10 +56,10 @@
   {
     "name": "Aniyomi: AnimeIsme",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeisme",
-    "apk": "aniyomi-id.animeisme-v16.17.apk",
+    "apk": "aniyomi-id.animeisme-v16.19.apk",
     "lang": "id",
-    "code": 17,
-    "version": "16.17",
+    "code": 19,
+    "version": "16.19",
     "nsfw": 0,
     "sources": [
       {
@@ -92,17 +74,17 @@
   {
     "name": "Aniyomi: AnimeKompi",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animekompi",
-    "apk": "aniyomi-id.animekompi-v16.18.apk",
+    "apk": "aniyomi-id.animekompi-v16.21.apk",
     "lang": "id",
-    "code": 18,
-    "version": "16.18",
+    "code": 21,
+    "version": "16.21",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeKompi",
         "lang": "id",
         "id": "2324698136267817963",
-        "baseUrl": "https://v9.animekompi.sbs",
+        "baseUrl": "https://v10.animekompi.sbs",
         "versionId": 1
       }
     ]
@@ -128,10 +110,10 @@
   {
     "name": "Aniyomi: AnimeSail",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animesail",
-    "apk": "aniyomi-id.animesail-v16.12.apk",
+    "apk": "aniyomi-id.animesail-v16.14.apk",
     "lang": "id",
-    "code": 12,
-    "version": "16.12",
+    "code": 14,
+    "version": "16.14",
     "nsfw": 0,
     "sources": [
       {
@@ -164,10 +146,10 @@
   {
     "name": "Aniyomi: Donghive",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.donghive",
-    "apk": "aniyomi-id.donghive-v16.11.apk",
+    "apk": "aniyomi-id.donghive-v16.15.apk",
     "lang": "id",
-    "code": 11,
-    "version": "16.11",
+    "code": 15,
+    "version": "16.15",
     "nsfw": 0,
     "sources": [
       {
@@ -182,10 +164,10 @@
   {
     "name": "Aniyomi: HidoriStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.hidoristream",
-    "apk": "aniyomi-id.hidoristream-v16.15.apk",
+    "apk": "aniyomi-id.hidoristream-v16.17.apk",
     "lang": "id",
-    "code": 15,
-    "version": "16.15",
+    "code": 17,
+    "version": "16.17",
     "nsfw": 0,
     "sources": [
       {
@@ -200,10 +182,10 @@
   {
     "name": "Aniyomi: Kopidong",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kopidong",
-    "apk": "aniyomi-id.kopidong-v16.14.apk",
+    "apk": "aniyomi-id.kopidong-v16.17.apk",
     "lang": "id",
-    "code": 14,
-    "version": "16.14",
+    "code": 17,
+    "version": "16.17",
     "nsfw": 0,
     "sources": [
       {
@@ -252,6 +234,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Layaranime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.layaranime",
+    "apk": "aniyomi-id.layaranime-v16.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Layaranime",
+        "lang": "id",
+        "id": "3343439169318167830",
+        "baseUrl": "https://layaranime.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Nanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nanime",
     "apk": "aniyomi-id.nanime-v16.8.apk",
@@ -272,10 +272,10 @@
   {
     "name": "Aniyomi: NekoKun",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nekokun",
-    "apk": "aniyomi-id.nekokun-v16.11.apk",
+    "apk": "aniyomi-id.nekokun-v16.13.apk",
     "lang": "id",
-    "code": 11,
-    "version": "16.11",
+    "code": 13,
+    "version": "16.13",
     "nsfw": 0,
     "sources": [
       {
