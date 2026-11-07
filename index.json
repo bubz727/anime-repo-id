@@ -362,10 +362,10 @@
   {
     "name": "Aniyomi: NontonAnimeID",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nontonanimeid",
-    "apk": "aniyomi-id.nontonanimeid-v16.9.apk",
+    "apk": "aniyomi-id.nontonanimeid-v16.10.apk",
     "lang": "id",
-    "code": 9,
-    "version": "16.9",
+    "code": 10,
+    "version": "16.10",
     "nsfw": 0,
     "sources": [
       {
@@ -398,10 +398,10 @@
   {
     "name": "Aniyomi: OtakuDesu",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.otakudesu",
-    "apk": "aniyomi-id.otakudesu-v16.8.apk",
+    "apk": "aniyomi-id.otakudesu-v16.10.apk",
     "lang": "id",
-    "code": 8,
-    "version": "16.8",
+    "code": 10,
+    "version": "16.10",
     "nsfw": 0,
     "sources": [
       {
@@ -416,10 +416,10 @@
   {
     "name": "Aniyomi: Samehadaku",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.samehadaku",
-    "apk": "aniyomi-id.samehadaku-v16.9.apk",
+    "apk": "aniyomi-id.samehadaku-v16.11.apk",
     "lang": "id",
-    "code": 9,
-    "version": "16.9",
+    "code": 11,
+    "version": "16.11",
     "nsfw": 0,
     "sources": [
       {
