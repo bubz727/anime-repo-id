@@ -7,6 +7,10 @@
 ## Guide
 
 ```html
+https://raw.githubusercontent.com/bubz727/anime-repo-id/repo/index.pb
+```
+OR
+```html
 https://raw.githubusercontent.com/bubz727/anime-repo-id/repo/index.min.json
 ```
 
