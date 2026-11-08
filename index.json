@@ -2,10 +2,10 @@
   {
     "name": "Aniyomi: Anichin",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.anichin",
-    "apk": "aniyomi-id.anichin-v16.18.apk",
+    "apk": "aniyomi-id.anichin-v16.19.apk",
     "lang": "id",
-    "code": 18,
-    "version": "16.18",
+    "code": 19,
+    "version": "16.19",
     "nsfw": 0,
     "sources": [
       {
@@ -74,10 +74,10 @@
   {
     "name": "Aniyomi: AnimeKompi",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animekompi",
-    "apk": "aniyomi-id.animekompi-v16.21.apk",
+    "apk": "aniyomi-id.animekompi-v16.22.apk",
     "lang": "id",
-    "code": 21,
-    "version": "16.21",
+    "code": 22,
+    "version": "16.22",
     "nsfw": 0,
     "sources": [
       {
@@ -92,10 +92,10 @@
   {
     "name": "Aniyomi: AnimePlay",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeplay",
-    "apk": "aniyomi-id.animeplay-v16.6.apk",
+    "apk": "aniyomi-id.animeplay-v16.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "16.6",
+    "code": 7,
+    "version": "16.7",
     "nsfw": 0,
     "sources": [
       {
