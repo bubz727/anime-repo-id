@@ -90,6 +90,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimeLovers",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.animelovers",
+    "apk": "aniyomi-id.animelovers-v16.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimeLovers",
+        "lang": "id",
+        "id": "5803664249593074263",
+        "baseUrl": "https://api.animeverse.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimePlay",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeplay",
     "apk": "aniyomi-id.animeplay-v16.7.apk",
