@@ -74,17 +74,17 @@
   {
     "name": "Aniyomi: AnimeKompi",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animekompi",
-    "apk": "aniyomi-id.animekompi-v16.22.apk",
+    "apk": "aniyomi-id.animekompi-v16.23.apk",
     "lang": "id",
-    "code": 22,
-    "version": "16.22",
+    "code": 23,
+    "version": "16.23",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeKompi",
         "lang": "id",
         "id": "2324698136267817963",
-        "baseUrl": "https://v10.animekompi.sbs",
+        "baseUrl": "https://v11.animekompi.sbs",
         "versionId": 1
       }
     ]
@@ -92,10 +92,10 @@
   {
     "name": "Aniyomi: AnimeLovers",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animelovers",
-    "apk": "aniyomi-id.animelovers-v16.1.apk",
+    "apk": "aniyomi-id.animelovers-v16.2.apk",
     "lang": "id",
-    "code": 1,
-    "version": "16.1",
+    "code": 2,
+    "version": "16.2",
     "nsfw": 0,
     "sources": [
       {
@@ -128,10 +128,10 @@
   {
     "name": "Aniyomi: AnimeSail",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animesail",
-    "apk": "aniyomi-id.animesail-v16.14.apk",
+    "apk": "aniyomi-id.animesail-v16.15.apk",
     "lang": "id",
-    "code": 14,
-    "version": "16.14",
+    "code": 15,
+    "version": "16.15",
     "nsfw": 0,
     "sources": [
       {
@@ -218,10 +218,10 @@
   {
     "name": "Aniyomi: Kuramanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuramanime",
-    "apk": "aniyomi-id.kuramanime-v16.7.apk",
+    "apk": "aniyomi-id.kuramanime-v16.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "16.7",
+    "code": 8,
+    "version": "16.8",
     "nsfw": 0,
     "sources": [
       {
@@ -380,10 +380,10 @@
   {
     "name": "Aniyomi: NontonAnimeID",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nontonanimeid",
-    "apk": "aniyomi-id.nontonanimeid-v16.10.apk",
+    "apk": "aniyomi-id.nontonanimeid-v16.11.apk",
     "lang": "id",
-    "code": 10,
-    "version": "16.10",
+    "code": 11,
+    "version": "16.11",
     "nsfw": 0,
     "sources": [
       {
@@ -398,17 +398,17 @@
   {
     "name": "Aniyomi: Oploverz",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.oploverz",
-    "apk": "aniyomi-id.oploverz-v16.6.apk",
+    "apk": "aniyomi-id.oploverz-v16.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "16.6",
+    "code": 7,
+    "version": "16.7",
     "nsfw": 0,
     "sources": [
       {
         "name": "Oploverz",
         "lang": "id",
         "id": "2573103800968432770",
-        "baseUrl": "https://oploverz.site",
+        "baseUrl": "https://oploverz.diy",
         "versionId": 1
       }
     ]
@@ -470,10 +470,10 @@
   {
     "name": "Aniyomi: Winbu",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.winbu",
-    "apk": "aniyomi-id.winbu-v16.5.apk",
+    "apk": "aniyomi-id.winbu-v16.6.apk",
     "lang": "id",
-    "code": 5,
-    "version": "16.5",
+    "code": 6,
+    "version": "16.6",
     "nsfw": 0,
     "sources": [
       {
