@@ -92,10 +92,10 @@
   {
     "name": "Aniyomi: AnimeLovers",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animelovers",
-    "apk": "aniyomi-id.animelovers-v16.2.apk",
+    "apk": "aniyomi-id.animelovers-v16.3.apk",
     "lang": "id",
-    "code": 2,
-    "version": "16.2",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 0,
     "sources": [
       {
@@ -128,10 +128,10 @@
   {
     "name": "Aniyomi: AnimeSail",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animesail",
-    "apk": "aniyomi-id.animesail-v16.15.apk",
+    "apk": "aniyomi-id.animesail-v16.16.apk",
     "lang": "id",
-    "code": 15,
-    "version": "16.15",
+    "code": 16,
+    "version": "16.16",
     "nsfw": 0,
     "sources": [
       {
@@ -236,10 +236,10 @@
   {
     "name": "Aniyomi: Kuronime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuronime",
-    "apk": "aniyomi-id.kuronime-v16.9.apk",
+    "apk": "aniyomi-id.kuronime-v16.10.apk",
     "lang": "id",
-    "code": 9,
-    "version": "16.9",
+    "code": 10,
+    "version": "16.10",
     "nsfw": 0,
     "sources": [
       {
@@ -272,17 +272,17 @@
   {
     "name": "Aniyomi: Nanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nanime",
-    "apk": "aniyomi-id.nanime-v16.8.apk",
+    "apk": "aniyomi-id.nanime-v16.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "16.8",
+    "code": 9,
+    "version": "16.9",
     "nsfw": 0,
     "sources": [
       {
         "name": "Nanime",
         "lang": "id",
         "id": "1419490058834549008",
-        "baseUrl": "https://nanimeindo.net",
+        "baseUrl": "https://nanimeid.lol",
         "versionId": 1
       }
     ]
@@ -308,10 +308,10 @@
   {
     "name": "Aniyomi: NekoPoi",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nekopoi",
-    "apk": "aniyomi-id.nekopoi-v16.6.apk",
+    "apk": "aniyomi-id.nekopoi-v16.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "16.6",
+    "code": 7,
+    "version": "16.7",
     "nsfw": 1,
     "sources": [
       {
@@ -326,10 +326,10 @@
   {
     "name": "Aniyomi: NimeGami",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nimegami",
-    "apk": "aniyomi-id.nimegami-v16.3.apk",
+    "apk": "aniyomi-id.nimegami-v16.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "16.3",
+    "code": 4,
+    "version": "16.4",
     "nsfw": 0,
     "sources": [
       {
@@ -416,10 +416,10 @@
   {
     "name": "Aniyomi: OtakuDesu",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.otakudesu",
-    "apk": "aniyomi-id.otakudesu-v16.10.apk",
+    "apk": "aniyomi-id.otakudesu-v16.11.apk",
     "lang": "id",
-    "code": 10,
-    "version": "16.10",
+    "code": 11,
+    "version": "16.11",
     "nsfw": 0,
     "sources": [
       {
