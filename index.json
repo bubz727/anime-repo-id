@@ -162,6 +162,24 @@
     ]
   },
   {
+    "name": "Aniyomi: Astronime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.astronime",
+    "apk": "aniyomi-id.astronime-v16.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Astronime",
+        "lang": "id",
+        "id": "6309957403422614095",
+        "baseUrl": "https://astronime.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Donghive",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.donghive",
     "apk": "aniyomi-id.donghive-v16.15.apk",
@@ -175,6 +193,24 @@
         "lang": "id",
         "id": "6555269108450233075",
         "baseUrl": "https://donghive.vip",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: DonghuaWorld",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.donghuaworld",
+    "apk": "aniyomi-id.donghuaworld-v16.10.apk",
+    "lang": "id",
+    "code": 10,
+    "version": "16.10",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "DonghuaWorld",
+        "lang": "id",
+        "id": "6772596784008374429",
+        "baseUrl": "https://donghuaworld.com",
         "versionId": 1
       }
     ]
@@ -452,10 +488,10 @@
   {
     "name": "Aniyomi: Sokuja",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.sokuja",
-    "apk": "aniyomi-id.sokuja-v16.2.apk",
+    "apk": "aniyomi-id.sokuja-v16.3.apk",
     "lang": "id",
-    "code": 2,
-    "version": "16.2",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 0,
     "sources": [
       {
@@ -488,10 +524,10 @@
   {
     "name": "Aniyomi: YLnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.ylnime",
-    "apk": "aniyomi-id.ylnime-v16.3.apk",
+    "apk": "aniyomi-id.ylnime-v16.4.apk",
     "lang": "id",
-    "code": 3,
-    "version": "16.3",
+    "code": 4,
+    "version": "16.4",
     "nsfw": 0,
     "sources": [
       {
