@@ -1,5 +1,23 @@
 [
   {
+    "name": "Aniyomi: AniBatch",
+    "pkg": "eu.kanade.tachiyomi.animeextension.id.anibatch",
+    "apk": "aniyomi-id.anibatch-v16.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AniBatch",
+        "lang": "id",
+        "id": "6243977908213955510",
+        "baseUrl": "https://anibatch.moe",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anichin",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.anichin",
     "apk": "aniyomi-id.anichin-v16.19.apk",
@@ -524,10 +542,10 @@
   {
     "name": "Aniyomi: YLnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.ylnime",
-    "apk": "aniyomi-id.ylnime-v16.4.apk",
+    "apk": "aniyomi-id.ylnime-v16.5.apk",
     "lang": "id",
-    "code": 4,
-    "version": "16.4",
+    "code": 5,
+    "version": "16.5",
     "nsfw": 0,
     "sources": [
       {
